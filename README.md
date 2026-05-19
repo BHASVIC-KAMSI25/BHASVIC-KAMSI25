@@ -25,6 +25,12 @@ Here are some things you'll find in my repositories:
 Hotel Check In/Check Out System
 - https://github.com/BHASVIC-zachknight25/zachknight25-Jack-Hotel-Kashyyyk-living-la-vida-yoda-
 
+Assignment Tasks 
+- https://github.com/BHASVIC-CompSci/csc-al-25-e-homework-A1Homework
+
+Java 
+- https://github.com/BHASVIC-CompSci/intellijkamsi
+
 ## Goals
 I'm currently working toward building stronger real-world development skills and creating projects that combine good design with functionality.
 
