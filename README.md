@@ -2,12 +2,11 @@
 
 # Hi, I'm Kamsi 👋
 
-I'm a student developer and creative based in Brighton & Hove with an interest in software development, UI design, game development, and digital media.
+I'm a student developer based in Brighton & Hove with an interest in software development, UI design, game development, and digital media.
 
 I enjoy building projects that are simple, useful, and visually clean. Most of my work focuses on:
 - Java projects and Greenfoot games
 - Web design and frontend development
-- Creative media and photography
 - Problem-solving through code
 
 Right now, I'm improving my skills in:
@@ -34,7 +33,7 @@ Java
 ## Goals
 I'm currently working toward building stronger real-world development skills and creating projects that combine good design with functionality.
 
-## Tech Stack
+## My Tech Stack
 - Python
 - Java
 - HTML / CSS / JavaScript
